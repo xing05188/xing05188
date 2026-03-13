@@ -49,14 +49,7 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xing05188&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=xing05188&theme=light&row=2&column=4&no-frame=true&margin-w=5)](https://github.com/xing05188)
 
 ### 📌 My Projects
 
@@ -66,21 +59,6 @@
   </a>
   <a href="https://github.com/xing05188?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=CarrotFantasy&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-
-> 💡 *Note: Replace `your-repo-1` and `your-repo-2` with your actual repository names to showcase your best projects.*
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:2351289@tongji.edu.cn">
-    <img src="https://img.shields.io/badge/Email-2351289%40tongji.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/xing05188">
-    <img src="https://img.shields.io/badge/GitHub-xing05188-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
