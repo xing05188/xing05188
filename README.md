@@ -47,9 +47,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
 </p>
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6](https://github-profile-trophy.vercel.app/?username=xing05188&theme=light&row=2&column=4&no-frame=true&margin-w=5)" alt="Top Languages" width="45%" />
+</p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=xing05188&theme=light&row=2&column=4&no-frame=true&margin-w=5)](https://github.com/xing05188)
 
 ### 📌 My Projects
 
