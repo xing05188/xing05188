@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl1MG8zNzgxanN2M2kyNmJzcG84cGo3Y2NxZjI1ZjZ1aHY3OWdjYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif"/>
+</p>
 <h1 align="center">Hi there 👋, I'm Zhou Huixing</h1>
 <h3 align="center">A passionate developer from China</h3>
 
@@ -40,27 +43,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xing05188&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xing05188&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xing05188&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xing05188&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" height="150" />
 </p>
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6](https://github-profile-trophy.vercel.app/?username=xing05188&theme=light&row=2&column=4&no-frame=true&margin-w=5)" alt="Top Languages" width="45%" />
-</p>
-
 ---
 
 ### 📌 My Projects
 
 <p align="left">
   <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=TJOS-xv6-labs-2024&theme=tokyonight&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=TJOS-xv6-labs-2024&theme=tokyonight&hide_border=true" alt="Project 1" width="48%" height="150" />
   </a>
   <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=CarrotFantasy&theme=tokyonight&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=CarrotFantasy&theme=tokyonight&hide_border=true" alt="Project 2" width="48%" height="150" />
   </a>
 </p>
 
@@ -72,4 +71,8 @@
 
 <p align="center">
   <b>Thanks for visiting my profile! Have a great day! 😊</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVyZG15cHF0NXQ3b2p6bHpiYXMzYmNpamMxNzdxb29meXE1NmI0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1gP0UvJKH9Hqc4EJAa/giphy.gif"/>
 </p>
