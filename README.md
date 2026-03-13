@@ -53,7 +53,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xing05188&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xing05188&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -62,10 +62,10 @@
 
 <p align="left">
   <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=your-repo-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=TJOS-xv6-labs-2024&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=your-repo-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=CarrotFantasy&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </p>
 
