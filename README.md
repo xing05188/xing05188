@@ -43,26 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xing05188&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xing05188&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xing05188&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing05188&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" height="150" />
-</p>
----
-
-### 📌 My Projects
-
-<p align="left">
-  <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=TJOS-xv6-labs-2024&theme=tokyonight&hide_border=true" alt="Project 1" width="48%" height="150" />
-  </a>
-  <a href="https://github.com/xing05188?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xing05188&repo=CarrotFantasy&theme=tokyonight&hide_border=true" alt="Project 2" width="48%" height="150" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
